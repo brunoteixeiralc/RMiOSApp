@@ -1,3 +1,3 @@
-#Swift Rick & Morty App
+# Swift Rick & Morty App
 
 https://rickandmortyapi.com/
