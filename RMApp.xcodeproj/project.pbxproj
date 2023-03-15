@@ -26,6 +26,7 @@
 		8B82DE6729C0F4AE0079C784 /* RMSingleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82DE6629C0F4AE0079C784 /* RMSingleLocation.swift */; };
 		8B82DE6929C0F87A0079C784 /* RMCharacterStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82DE6829C0F87A0079C784 /* RMCharacterStatus.swift */; };
 		8B82DE6B29C0F8B60079C784 /* RMCharacterGender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82DE6A29C0F8B60079C784 /* RMCharacterGender.swift */; };
+		8B82DE6E29C24F870079C784 /* RMHttpMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82DE6D29C24F870079C784 /* RMHttpMethod.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		8B82DE6629C0F4AE0079C784 /* RMSingleLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMSingleLocation.swift; sourceTree = "<group>"; };
 		8B82DE6829C0F87A0079C784 /* RMCharacterStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterStatus.swift; sourceTree = "<group>"; };
 		8B82DE6A29C0F8B60079C784 /* RMCharacterGender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterGender.swift; sourceTree = "<group>"; };
+		8B82DE6D29C24F870079C784 /* RMHttpMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMHttpMethod.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				8B82DE5E29C0EDEF0079C784 /* RMService.swift */,
 				8B82DE6029C0EE020079C784 /* RMRequest.swift */,
 				8B82DE6229C0EF7C0079C784 /* RMEndpoint.swift */,
+				8B82DE6D29C24F870079C784 /* RMHttpMethod.swift */,
 			);
 			path = APIClient;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				8B82DE5629BFA2DA0079C784 /* RMCharacterViewController.swift in Sources */,
 				8B82DE6129C0EE020079C784 /* RMRequest.swift in Sources */,
 				8B82DE5929BFA2F50079C784 /* RMEpisodeViewController.swift in Sources */,
+				8B82DE6E29C24F870079C784 /* RMHttpMethod.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
